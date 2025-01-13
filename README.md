@@ -1,1 +1,1 @@
-# desaf-o-layout-e-commerce
+# desafio-layout-e-commerce
